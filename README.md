@@ -42,7 +42,7 @@ You can check out my live portfolio website here:
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/<your-github-username>/<your-repository-name>.git
+    git clone https://github.com/Sandeep0900/Sandeep-profile-web.git
     ```
 2. Open the folder in your code editor (e.g., VS Code).
 3. If needed, install any dependencies (for backend development, such as Express.js):
