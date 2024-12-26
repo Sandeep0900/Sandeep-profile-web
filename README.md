@@ -45,14 +45,7 @@ You can check out my live portfolio website here:
     git clone https://github.com/Sandeep0900/Sandeep-profile-web.git
     ```
 2. Open the folder in your code editor (e.g., VS Code).
-3. If needed, install any dependencies (for backend development, such as Express.js):
-    ```bash
-    npm install
-    ```
-4. Run the website locally using a local server (if backend is implemented):
-    ```bash
-    npm start
-    ```
+3. Run the website locally using a local server("index.html")
 
 ## Contributing
 
